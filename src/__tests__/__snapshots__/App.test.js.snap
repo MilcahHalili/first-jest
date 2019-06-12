@@ -9,6 +9,11 @@ exports[`changing button name to Hide toggle the button 1`] = `
   >
     Show
   </button>
+  <button
+    onClick={[Function]}
+  >
+    SUBSCRIBE TO BASIC
+  </button>
 </div>
 `;
 
@@ -20,6 +25,11 @@ exports[`my first snapshot test testing app button 1`] = `
     onClick={[Function]}
   >
     Show
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    SUBSCRIBE TO BASIC
   </button>
 </div>
 `;
